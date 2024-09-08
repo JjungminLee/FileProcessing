@@ -12,5 +12,5 @@
 과제 1: open,insert,copy,delete,overwrite,read 프로그램 구현  
 과제 2 : Flash Device Driver 활용 프로그램 구현  
 과제 3 : Flash Memory에서의 Block Mapping FTL 구현  
-과제 4 : 레코드 저장 및 검색
+과제 4 : 레코드 저장 및 검색  
 과제 5 : 레코드 삭제 및 추가
